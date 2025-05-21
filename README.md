@@ -1,5 +1,5 @@
 ### Hi there
 
-I'm Matthew, a high school student who enjoys developing software to improve daily life.
+I'm Matthew. I study Systems Design Engineering at the University of Waterloo.
 
-**Contact me:** `me [at] matthewholandez [dot] com`
+**Contact me:** `work [at] matthewholandez [dot] com`
