@@ -11,3 +11,5 @@ I'm seeking co-op opportunities for **Fall 2026** and **Summer 2027**.
 Email: [mholandez + at + uwaterloo + dot + ca](mailto:mholandez@uwaterloo.ca)
 
 LinkedIn: [https://linkedin.com/in/matthewholandez](https://linkedin.com/in/matthewholandez)
+
+Portfolio: [https://matthewholandez.com](https://matthewholandez.com)
