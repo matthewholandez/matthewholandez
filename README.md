@@ -13,5 +13,5 @@ Fun fact: one of my hobbies is [speedcubing.](https://en.wikipedia.org/wiki/Spee
 ### Contact me
 
 - Website: [matthewholandez.com](https://matthewholandez.com)
-- [Email](mailto:work@matthewholandez.com)
+- [Email](mailto:hello@matthewholandez.com)
 - [LinkedIn](https://linkedin.com/in/matthewholandez)
