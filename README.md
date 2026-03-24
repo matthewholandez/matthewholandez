@@ -1,15 +1,15 @@
+Hi there! Welcome to my GitHub. I'm Matthew.
+
 ## About me
 
-Hi there! I'm Matthew.
+I study Systems Design Engineering at the University of Waterloo with an expected graduation date of **April 2030.** 
 
-I study Systems Design Engineering at the University of Waterloo, and I'll be graduating in May 2030.
+**Currently, I'm seeking co-op opportunities for <ins>Fall 2026</ins> and <ins>Summer 2027<ins>.**
 
-I'm seeking co-op opportunities for **Fall 2026** and **Summer 2027**.
+My primary area of interest at the moment is data, and how we can use it to solve problems. In the **Winter 2026** co-op term, I was at [DeepCode](https://deepcode.ca) as a Cyber Intelligence Research intern. I focused primarily on automating data analysis and triage across different websites frequented by cybercriminals using Python and JavaScript.
 
-### 🌐 Contact
+### Contact me
 
-Email: [mholandez + at + uwaterloo + dot + ca](mailto:mholandez@uwaterloo.ca)
-
-LinkedIn: [https://linkedin.com/in/matthewholandez](https://linkedin.com/in/matthewholandez)
-
-Portfolio: [https://matthewholandez.com](https://matthewholandez.com)
+- Website: [matthewholandez.com](https://matthewholandez.com)
+- [Email](mailto:work@matthewholandez.com)
+- [LinkedIn](https://linkedin.com/in/matthewholandez)
