@@ -7,6 +7,6 @@ Hi there 😺 Welcome to my GitHub profile.
 
 ### Contact me
 
-- Website: [matthewholandez.com](https://matthewholandez.com)
+- Website: [mholandez.com](https://mholandez.com)
 - [Email](mailto:hello@matthewholandez.com)
 - [LinkedIn](https://linkedin.com/in/matthewholandez)
