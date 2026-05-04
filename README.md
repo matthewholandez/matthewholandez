@@ -8,5 +8,5 @@ Hi there 😺 Welcome to my GitHub profile.
 ### Contact me
 
 - Website: [mholandez.com](https://mholandez.com)
-- [Email](mailto:hello@matthewholandez.com)
+- [Email](mailto:mholandez@uwaterloo.ca)
 - [LinkedIn](https://linkedin.com/in/matthewholandez)
